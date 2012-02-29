@@ -1,1 +1,3 @@
 put antlr-3.3-complete.jar in lib folder to run the example
+
+tar xvzf <filename>.tar.gz
